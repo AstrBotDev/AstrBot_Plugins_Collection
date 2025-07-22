@@ -5,4 +5,4 @@ Ast姬Bot 插喵合集窝，用喵在 Ast姬Bot 仪表团-插喵页里当作插�
 ## 提交插喵
 
 > \[!NOTE]
-> 请戳喵戳前往 Ast姬Bot 主窝库提交插喵：[🥳 发布插喵](https://github.com/Soulter/AstrBot/issues/new?template=PLUGIN_PUBLISH.yml)
+> 请戳喵戳前往 Ast姬Bot 主窝库提交插喵：[🥳 发布插喵](https://github.com/AstrBotDev/AstrBot/issues/new?template=PLUGIN_PUBLISH.yml)
